@@ -1,0 +1,17 @@
+Difference Between Compiler and Interpreter:
+   
+Compiler ::
+         
+              A compiler is a programming language translator which converts High Level Language program to its equivalent intermediate code.
+      *It takes large amount of time it analyze the souce code.
+      *Scans the entire program and translates it as a whole machine code.
+      *programming language like c c++.
+     * A computer program which reads code and outputs assembly code or executable code .
+
+Interpreter::
+           
+        An interpreter is a programming langugae translator which converts High Level Language program to its equivalent machine code.
+     *It takes less amount of time to analyze the source code.
+     * Interpreter execute line by line execution.
+     * Memory requirement is less in case of interpretion because, no object code is created in case of interpreter.
+     *Thus interpreters are sometimes used during the development of a program.
